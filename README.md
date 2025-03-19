@@ -1,1 +1,2 @@
-# aws-examen-web-Diego-CabelloBautista
+# Examen de AWS
+![img1](./img/cap1.png)
